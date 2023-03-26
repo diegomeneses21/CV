@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    padding: 10px;
+    /* box-shadow: 10px 10px 10px black; */
+}
+
+.info {
+    margin-top: 10px;
+}
+
+.info h4 {
+    margin: 5px;
+}
+
+.info a {
+    margin-left: 4px;
+    text-decoration: none;
+}

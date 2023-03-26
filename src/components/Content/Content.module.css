@@ -1,0 +1,48 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+    padding: 15px;
+    justify-content: space-around;
+}
+
+.content2 {
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+    padding: 15px;
+}
+
+.profile {
+    width: 50%;
+}
+
+.skills {
+  width: 40%;
+}
+
+.ep {
+    width: 40%;
+    margin-left: 60px;
+}
+
+.languages {
+    width: 50%;
+    margin-left: 30px;
+}
+
+.projects {
+    width: 50%;
+    margin-left: 30px;
+}
+
+.competencias {
+    width: 40%;
+    margin-left: 60px;
+}
+
+.titles {
+    margin-top: 0;
+    text-decoration: underline;
+}
+
