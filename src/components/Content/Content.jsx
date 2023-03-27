@@ -5,11 +5,11 @@ export default function Content() {
         <>
             <div className={styles.content}>
                 <div className={styles.profile}>
-                    Full Stack Developer con formacion como Diseñador Web.
-                    Experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologias del sector.
-                    Lideré la creacion de una Plataforma de delivery,
-                    donde los clientes pueden realizar su pedido desde la comodidad su laptop o smartphone
-                    y realizar el pago online o en efectivo, brindando tambien la oportunidad de
+                    Full Stack Developer con formación como Diseñador Web.
+                    Experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector.
+                    Lideré la creación de una Plataforma de delivery,
+                    donde los clientes pueden realizar su pedido desde la comodidad de su laptop o smartphone
+                    y realizar el pago online o en efectivo, brindando también la oportunidad de
                     registrar su negocio o emprendimiento y potenciar sus ventas.
                 </div>
                 <div className={styles.skills} >
@@ -18,7 +18,7 @@ export default function Content() {
                 </div>
             </div>
             <div className={styles.content2}>
-                <div className={styles.projects}> 
+                <div className={styles.projects}>
                     <h1 className={styles.titles}>PROYECTOS</h1>
                     <h2>Full Stack Web Developer - PEDIVERY</h2>
                     <p>Henry Bootcamp</p>
